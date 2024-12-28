@@ -55,7 +55,7 @@ This project leverages the following Python libraries:
 ## Screenshot
 Below is an example of the program's output:
 
-![Program Screenshot](sql_to_mermaid_er/SqlToMermaid.png)
+![Program Screenshot](SqlToMermaid.png)
 
 ---
 
